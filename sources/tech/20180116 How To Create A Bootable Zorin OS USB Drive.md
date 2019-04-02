@@ -1,22 +1,22 @@
 RHSNOW is translating.
-How To Create A Bootable Zorin OS USB Drive
+如何制作一个 Zorin OS 的 USB 启动盘？
 ======
 ![Zorin OS][17]
 
-### Introduction
+### 简介
 
-In this guide I will show you how to create a bootable Zorin OS USB Drive.
+这篇文章将教你制作一个 Zorin 操作系统的USB启动盘。
 
-To be able to follow this guide you will need the following:
+开始之前的准备工作：
 
-  * A blank USB drive
-  * An internet connection
+  * 一个空白盘
+  * 互联网连接
 
 
 
-### What Is Zorin OS?
+### Zorin OS 是什么?
 
-Zorin OS is a Linux based operating system.
+Zorin OS 是一个基于 Linux 的操作系统。
 
 If you are a Windows user you might wonder why you would bother with Zorin OS. If you are a Linux user then you might also wonder why you would use Zorin OS over other distributions such as Linux Mint or Ubuntu.
 
