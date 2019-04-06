@@ -5,7 +5,7 @@ RHSNOW is translating.
 
 ### 简介
 
-这篇文章将教你制作一个 Zorin 操作系统的USB启动盘。
+这篇文章将教你制作一个 Zorin OS 的USB启动盘。
 
 开始之前的准备工作：
 
@@ -18,45 +18,45 @@ RHSNOW is translating.
 
 Zorin OS 是一个基于 Linux 的操作系统。
 
-If you are a Windows user you might wonder why you would bother with Zorin OS. If you are a Linux user then you might also wonder why you would use Zorin OS over other distributions such as Linux Mint or Ubuntu.
+如果你是一个 Windows 用户，你可能想知道为何要使用 Zorin OS ，如果你是一个 Linux 用户你也会想知道比起 Linux Mint 和 Ubuntu 等 Linux 发行版为什么要更倾心于 Zorin OS。
 
-If you are using an older version of Windows and you can't afford to upgrade to Windows 10 or your computer doesn't have the right specifications for running Windows 10 then Zorin OS provides a free (or cheap, depending how much you choose to donate) upgrade path allowing you to continue to use your computer in a much more secure environment.
+如果你正在使用旧版本的 Windows 并不愿花钱升级到正版 Windows 10，或者你的电脑不能正常运行 Windows 10系统，那么 Zorin OS 则提供了一个免费（或者说很便宜，这取决于你选择捐助多少）的途径让你能在更安全的环境下继续使用你的电脑。
 
-If your current operating system is Windows XP or Windows Vista then you might consider using Zorin OS Lite as opposed to Zorin OS Core.
+如果你目前的操作系统是 Windows XP 或 Windows Vista，那你可能要考虑使用 Zorin OS Lite 而不是 Zorin OS Core。
 
-The features of Zorin OS Lite are generally the same as the Zorin OS Core product but some of the applications installed and the desktop environment used for displaying menus and icons and other Windowsy features take up much less memory and processing power.
+表面上看 Zorin OS Lite 和 Zorin OS Core 几乎是一样的，但是从预装应用、桌面菜单图标和和其他样式来看，Lite 则占用了较少的内存和计算资源。
 
-If you are running Windows 7 then your operating system is coming towards the end of its life. You could probably upgrade to Windows 10 but at a hefty price.
+如果你正在使用 Windows 7，你的操作系统即将寿终就寝。你可以升级到 Windows 10，但是那会使你厚厚的腰包瘪下来。
 
-Not everybody has the finances to pay for a new Windows license and not everybody has the money to buy a brand new computer.
+不是每个人都有充足的资金购买新的 Windows 许可证或者更换新电脑。
 
-Zorin OS will help you extend the life of your computer and you will still feel you are using a premium product and that is because you will be. The product with the highest price doesn't always provide the best value.
+Zorin OS 则可以给你的电脑续命，而且你仍然会有很好的使用体验。况且最贵的产品并不一定性价比就最高！
 
-Whilst we are talking about value for money, Zorin OS allows you to install the best free and open source software available and comes with a good selection of packages pre-installed.
+当我们谈到金钱的价值时， Zorin OS 允许你安装最好的、现有的免费开源软件，同时还可以选择预装软件包。
 
-For the home user, using Zorin OS doesn't have to feel any different to running Windows. You can browse the web using the browser of your choice, you can listen to music and watch videos. There are mail clients and other productivity tools.
+对于家庭用户来说，使用 Zorin OS 和 Windows 没有任何区别。你可以选择喜欢的浏览器浏览网页，也可以听歌、播放视频。还有邮件客户端和其他的生产力工具供你使用。
 
-Talking of productivity there is LibreOffice. LibreOffice has everything the average home user requires from an office suite with a word processor, spreadsheet and presentations package.
+谈到生产力则有 LibreOffice。对于 office 普通家庭用户，office 上像文字处理、电子表格和演示文稿中的所有功能都能在 LibreOffice 中实现。
 
-If you want to run Windows software then you can use the pre-installed PlayOnLinux and WINE packages to install and run all manner of packages including Microsoft Office.
+如果你要运行 Windows 软件, 则可以使用预安装的 PlayOnLinux 和 WINE 包来安装和运行包括 Microsoft Office 在内的所有程序包。
 
-By running Zorin OS you will get the extra security benefits of running a Linux based operating system.
+和其他 Linux 操作系统相比，运行 Zorin OS 可以获得额外的安全支持。
 
-Are you fed up with Windows updates stalling your productivity? When Windows wants to install updates it requires a reboot and then a long wait whilst it proceeds to install update after update. Sometimes it even forces a reboot whilst you are busy working.
+您是否厌倦了 Windows 更新会阻碍您的工作效率？ 当 Windows 安装更新时需要重启并在一次次的更新中等待很长时间，有时甚至在你有很多工作要做时强制重启。
 
-Zorin OS is different. Updates download and install themselves whilst you are using the computer. You won't even need to know it is happening.
+Zorin OS 则不同，它会在你使用电脑时自动下载并安装更新。你甚至都不知道它已经更新完成。
 
-Why Zorin over Mint or Ubuntu? Zorin is the happy stepping stone between Windows and Linux. It is Linux but you don't need to care that it is Linux. If you decide later on to move to something different then so be it but there really is no need.
+为什么 Zorin 比 Mint 或者 Ubuntu 强? Zorin 是 Windows 和 Linux 之间快乐的垫脚石。它是一个 Linux 系统，但是你不需要关注这一点。如果你有其他不同的想法或者做一些其他事情，那就去做吧！但是那真的没有必要。
 
-### The Zorin OS Website
+### The Zorin OS 网站
 
 ![](http://dailylinuxuser.com/wp-content/uploads/2018/01/zorinwebsite1-678x381.png)
 
-You can visit the Zorin OS website by visiting [www.zorinos.com][18].
+你可以通过访问 [www.zorinos.com][18] 进入 Zorin OS 网站。
 
-The homepage of the Zorin OS website tells you everything you need to know.
+Zorin OS 网站的主页有所有你需要知道的东西。
 
-"Zorin OS is an alternative to Windows and macOX, designed to make your computer faster, more powerful and secure".
+"Zorin OS 是 Windows 和 macOX 的替代品，它设计的目的就是让你的电脑更快更强更安全"。
 
 There is nothing that tells you that Zorin OS is based on Linux. There is no need for Zorin to tell you that because even though Windows used to be heavily based on DOS you didn't need to know DOS commands to use it. Likewise you don't necessarily need to know Linux commands to use Zorin.
 
