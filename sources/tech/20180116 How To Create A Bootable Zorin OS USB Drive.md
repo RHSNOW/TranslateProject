@@ -58,11 +58,11 @@ Zorin OS 网站的主页有所有你需要知道的东西。
 
 "Zorin OS 是 Windows 和 macOX 的替代品，它设计的目的就是让你的电脑更快更强更安全"。
 
-Zorin OS 并没有明显的标志说它基于 Linux，就像你在使用 Windows 时并不需要知道 DOS 命令就能使用 Windows，即使曾经的 Windows 非常依赖于 DOS 的命令行。你同样不必了解 Linux 命令便可以轻松使用 Zorin OS。
+There is nothing that tells you that Zorin OS is based on Linux. There is no need for Zorin to tell you that because even though Windows used to be heavily based on DOS you didn't need to know DOS commands to use it. Likewise you don't necessarily need to know Linux commands to use Zorin.
 
-下文中读者将看到一个画面，突出了 Zorin OS 的外观和它给人的感受。
+If you scroll down the page you will see a slide show highlighting the way the desktop looks and feels under Zorin.
 
-如果你更偏向于使用 Windows 的界面布局，你也可以在 Zorin OS 上跟随你的喜好使用 Windows 或 Mac 风格的布局。
+The good thing is that you can customise the user interface so that if you prefer a Windows layout you can use a Windows style layout but if you prefer a Mac style layout you can go for that as well.
 
 Zorin OS is based on Ubuntu Linux and the website uses this fact to highlight that underneath it has a stable base and it highlights the security benefits provided by Linux.
 
