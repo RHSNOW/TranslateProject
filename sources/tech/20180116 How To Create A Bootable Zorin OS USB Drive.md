@@ -58,29 +58,29 @@ Zorin OS 网站的主页有所有你需要知道的东西。
 
 "Zorin OS 是 Windows 和 macOX 的替代品，它设计的目的就是让你的电脑更快更强更安全"。
 
-There is nothing that tells you that Zorin OS is based on Linux. There is no need for Zorin to tell you that because even though Windows used to be heavily based on DOS you didn't need to know DOS commands to use it. Likewise you don't necessarily need to know Linux commands to use Zorin.
+并没有明显的标志说它基于 Linux，就像你在使用 Windows 时并不需要知道 DOS 命令就能使用 Windows，即使曾经的 Windows 非常依赖于 DOS 的命令行。你同样不必了解 Linux 命令便可以轻松使用 Zorin OS。
 
-If you scroll down the page you will see a slide show highlighting the way the desktop looks and feels under Zorin.
+下文中读者将看到一个画面，突出了 Zorin OS 的外观和它给人的感受。
 
-The good thing is that you can customise the user interface so that if you prefer a Windows layout you can use a Windows style layout but if you prefer a Mac style layout you can go for that as well.
+如果你更偏向于使用 Windows 的界面布局，你也可以在 Zorin OS 上跟随你的喜好使用 Windows 或 Mac 风格的布局。
 
-Zorin OS is based on Ubuntu Linux and the website uses this fact to highlight that underneath it has a stable base and it highlights the security benefits provided by Linux.
+Zorin OS 基于 Ubuntu，在他们网站中，他们强调了这一事实来说明 Zorin OS 有一个稳定的基础, 这突出了 Linux 提供的安全好处。
 
-If you want to see what applications are available for Zorin then there is a link to do that and Zorin never sells your data and protects your privacy.
+如果你想知道 Zorin 上面可以运行哪些应用程序，将会有一个链接将其呈现给你。并且 Zorin 永远不会出售你的个人资料同时会保护你的隐私。
 
-### What Are The Different Versions Of Zorin OS
+### Zorin OS 的不同版本有什么区别
 
-#### Zorin OS Ultimate
+#### Zorin OS 最终版
 
-The ultimate edition takes the core edition and adds other features such as different layouts, more applications pre-installed and extra games.
+ Zorin OS 最终版是 Zorin 最重要的版本，这个版本增加了布局、有更多预装程序和一些额外的游戏。
 
-The ultimate edition comes at a price of 19 euros which is a bargain compared to other operating systems.
+相比其他操作系统来说，最终版的 Zorin OS 的价钱只有 19 欧元，这是很划算的。
 
-#### Zorin OS Core
+#### Zorin OS 核心版本
 
-The core version is the standard edition and comes with everything the average person could need from the outset.
+核心版本的 Zorin 对大多数人来说是标准版，里面包含了大多数需要的软件等。
 
-This is the version I will show you how to download and install in this guide.
+我将会展示如何下载并安装这个版本。
 
 #### Zorin OS Lite
 
