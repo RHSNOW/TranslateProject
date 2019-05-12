@@ -84,17 +84,17 @@ Zorin OS 基于 Ubuntu，在他们网站中，他们强调了这一事实来说�
 
 #### Zorin OS Lite
 
-Zorin OS Lite also has an ultimate version available and a core version. Zorin OS Lite is perfect for older computers and the main difference is the desktop environments used to display menus and handle screen elements such as icons and panels.
+Zorin OS Lite 也有一个最终版本和一个核心版本。Zorin OS Lite 非常适合较旧的计算机, 主要区别在于用于显示菜单和处理屏幕元素 (如图标和面板) 的桌面环境。
 
-Zorin OS Lite is less memory intensive than Zorin OS.
+Zorin OS Lite 比 Zorin OS 占用更少的内存.
 
-#### Zorin OS Business
+#### Zorin OS 商业版本
 
-Zorin OS Business comes with business applications installed as standard such as finance applications and office applications.
+Zorin OS 商业版本相对于标准版来说安装了像金融软件和办公软件等商业应用程序。
 
-### How To Get Zorin OS
+### 如何获取 Zorin OS
 
-To download Zorin OS visit <https://zorinos.com/download/>.
+点击下载 Zorin OS <https://zorinos.com/download/>.
 
 To get the core version scroll past the Zorin Ultimate section until you get to the Zorin Core section.
 
